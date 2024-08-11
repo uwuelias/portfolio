@@ -5,7 +5,8 @@ import Link from "next/link";
 const projects = [
   {
     title: "To-do List",
-    description: "A React app to manage to-dos.",
+    description:
+      "To-do list that will help you efficiently manage and organize tasks with a simple interface",
     imageSrc: "/to-do-list.png",
     projectLink: "https://uwuelias-todo-list-react.netlify.app/",
     codeLink: "https://github.com/uwuelias/todo-list-react",
