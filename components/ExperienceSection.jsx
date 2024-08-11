@@ -6,7 +6,7 @@ const ExperienceSection = () => {
       <div className="container mx-auto text-center">
         <h2 className="text-3xl font-bold mb-4">Experience</h2>
         <p className="text-xl">
-          I don't have any experience yet, but you can change that.
+          I don&apos;t have any experience yet, but you can change that.
         </p>
       </div>
     </section>
